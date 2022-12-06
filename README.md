@@ -10,5 +10,6 @@
     學歷:國立臺中科技大學資管科五專部</br>
     E-mail:picg894@gmail.com</br>
     <hr>
+    <h1>技能</h1>
   </body>
 </html>
